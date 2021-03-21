@@ -3,6 +3,7 @@ image: ruby:2.7
 pages:
   script:
   - gem install jekyll
+  - gem install bundler:2.2.15
   - jekyll build -d public/
   artifacts:
     paths:
