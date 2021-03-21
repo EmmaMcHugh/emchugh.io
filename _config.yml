@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emma McHugh"
+title                    :
 title_separator          : "-"
 name                     : &name "Emma McHugh"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Emma McHugh"
-  avatar           : "profile.png"
-  bio              : "Research Fellow studying the malaria parasite Plasmodium falciparum"
+  avatar           :
+  bio              : "Research Fellow"
   location         :
   employer         : "University of Melbourne"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=emma+mchugh"
@@ -96,7 +96,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "EmmaMcHugh"
+  gitlab		  : "e.mchugh"
   google_plus      :
   keybase          :
   instagram        :
