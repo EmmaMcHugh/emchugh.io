@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    :
+title                    : "Emma McHugh"
 title_separator          : "-"
 name                     : &name "Emma McHugh"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emma McHugh"
-  avatar           :
+  avatar           : "profile.png"
   bio              : "Research Fellow"
   location         :
   employer         : "University of Melbourne"
