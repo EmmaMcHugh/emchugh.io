@@ -4,6 +4,7 @@ pages:
   script:
   - gem install jekyll
   - gem install bundler:2.2.15
+  - gem install nokogiri
   - jekyll build -d public/
   artifacts:
     paths:
