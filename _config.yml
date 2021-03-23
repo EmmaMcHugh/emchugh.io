@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emma McHugh"
+title                    : "emchugh.io"
 title_separator          : "-"
 name                     : &name "Emma McHugh"
 description              : &description "personal description"
