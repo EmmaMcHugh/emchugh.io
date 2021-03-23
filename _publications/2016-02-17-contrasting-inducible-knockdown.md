@@ -8,5 +8,5 @@ venue: 'PLOS One
 teaser:
 paperurl: '/files/2016-02-17-contrasting-inducible-knockdown.pdf'
 link: 'https://doi.org/0.1371/journal.pone.0149296'
-citation: 'Chisholm SA, <b>McHugh E</b>, Lundie R, Dixon MW, Ghosh S, O'Keefe M, Tilley L, Kalanon M, de Koning-Ward TF. 2016. &quot;ontrasting Inducible Knockdown of the Auxiliary PTEX Component PTEX88 in <i>P. falciparum and <i>P. berghei</i> Unmasks a Role in Parasite Virulence.&quot; <i>PLOS One</i> 17;11(2):e0149296.'
+citation: 'Chisholm SA, <b>McHugh E</b>, Lundie R, Dixon MW, Ghosh S, O'Keefe M, Tilley L, Kalanon M, de Koning-Ward TF. 2016. &quot;Contrasting Inducible Knockdown of the Auxiliary PTEX Component PTEX88 in <i>P. falciparum and <i>P. berghei</i> Unmasks a Role in Parasite Virulence.&quot; <i>PLOS One</i> 17;11(2):e0149296.'
 ---
