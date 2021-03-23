@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-contrasting-inducible
 excerpt:
 date: 2016-02-17
-venue: 'PLOS One
+venue: 'PLOS One'
 teaser:
 paperurl: '/files/2016-02-17-contrasting-inducible.pdf'
 link: 'https://doi.org/0.1371/journal.pone.0149296'
