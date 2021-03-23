@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=emma+mchugh"
   googlescholar    : "https://scholar.google.com.au/citations?user=E8BH-K4AAAAJ&hl=en&oi=ao"
   email            : "emchugh@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Emma-Mchugh"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   facebook         :
   foursquare       :
   github           : "EmmaMcHugh"
-  gitlab		  : "e.mchugh"
+  gitlab       	   : "e.mchugh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0278-4171"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
