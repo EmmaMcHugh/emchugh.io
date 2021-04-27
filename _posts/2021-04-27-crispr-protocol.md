@@ -29,7 +29,7 @@ Follow this link to [CHOPCHOP](http://chopchop.cbu.uib.no/).
 
 This image from IDT shows how the crRNA and tracrRNA anneal and target the Cas9 to your desired cut site.
 
-![](crispr.png)  
+![](images/crispr.png)  
 
 ## Step 2: Transfection
 
@@ -70,10 +70,10 @@ This image from IDT shows how the crRNA and tracrRNA anneal and target the Cas9 
 
 ---
 
-**Cytomix (final concentrations)**  
-25 mM HEPES/2 mM EGTA, pH 7.6	
-10 mM potassium phosphate pH 7.6	
-120 mM KCl	
-5 mM MgCl2	
-150 mM CaCl2	
-Adjust pH to 7.6 with 1M KOH
+**Cytomix (final concentrations)**   
+25 mM HEPES/2 mM EGTA, pH 7.6		
+10 mM potassium phosphate pH 7.6		
+120 mM KCl		
+5 mM MgCl2		
+150 mM CaCl2		
+Adjust pH to 7.6 with 1M KOH		
