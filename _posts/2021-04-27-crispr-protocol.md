@@ -14,7 +14,7 @@ This is my protocol for using a commercial Cas9 nuclease and custom synthesised 
 ### Parameters to keep in mind
 
  - I make the homology arms as close as possible to the Cas9 cut site (3 nt upstream from the PAM). I have successfully gone as far as 80 nt away in either direction, however I don't have any real evidence that closer = better.
- - The guide sequence must be absent or mutated in the repair template. In the case of mutation, I've found that mutating the PAM, with 4+ mutations in the 20 nt guide-binding sequence are sufficient. (In the NMD paper, the guide sequence was absent in the final constructs for both the knockouts and HA-tag sequences).
+ - The guide sequence must be absent or mutated in the repair template. In the case of mutation, I've found that mutating the PAM, with 4+ mutations in the 20 nt guide-binding sequence are sufficient. (In my [preprint](https://www.biorxiv.org/content/10.1101/2021.04.14.439394v1), the guide sequence was absent in the final constructs for both the knockouts and HA-tag sequences).
 
 ### CHOPCHOP and ordering instructions
 
