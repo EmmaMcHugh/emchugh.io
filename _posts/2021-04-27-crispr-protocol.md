@@ -9,7 +9,7 @@ tags:
 
 This is my protocol for using a commercial Cas9 nuclease and custom synthesised guide RNA for CRISPR editing in *P. falciparum*. I don't go into how I design the repair template, but to see some examples for HA-tagging and gene disruption, check out my lab book on [Benchling](https://benchling.com/emchugh/f_/hKKl97Cy-nonsense-mediated-decay/).
 
-Credit to Simon Cobbold for first trialling this technique using Integrated DNA Technologies (IDT) reagents. His protocol is available through the [IDT website](https://sfvideo.blob.core.windows.net/sitefinity/docs/default-source/user-submitted-method/idt-delivery-of-ribonucleoprotein-complexes-into-p-falciparum-infected-erythrocytes-by-electroporation-user-method.pdf?sfvrsn=f001b07_5)
+Credit to Simon Cobbold for first trialling this technique using Integrated DNA Technologies (IDT) reagents. His protocol is available through the [IDT website](https://sfvideo.blob.core.windows.net/sitefinity/docs/default-source/user-submitted-method/idt-delivery-of-ribonucleoprotein-complexes-into-p-falciparum-infected-erythrocytes-by-electroporation-user-method.pdf?sfvrsn=f001b07_5).
 
 ## Step 1: Designing the guide
 
