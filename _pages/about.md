@@ -11,7 +11,4 @@ I'm a Research Fellow at the University of Melbourne in the [Ralph Laboratory](h
 
 I completed my PhD at the University of Melbourne and wrote my thesis on organelles deployed by the malaria parasite into the host cell (pdf download available [here](https://emchugh.io/files/2018-02-25-thesis.pdf)).
 
-I'm a member of [Giving What We Can](https://www.givingwhatwecan.org/) and donate 10% of my pre-tax income to highly effective charities such as:
-- [GiveDirectly](https://www.givedirectly.org/) (direct cash transfers to individuals in several African countries)
-- [Malaria Consortium](https://www.givewell.org/charities/malaria-consortium) (seasonal malaria chemoprevention program)
-- [Against Malaria](https://www.againstmalaria.com/) (insecticide-treated bednets in malaria endemic regions)
+I'm a member of [Giving What We Can](https://www.givingwhatwecan.org/).
