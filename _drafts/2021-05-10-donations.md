@@ -8,14 +8,23 @@ tags:
   - effective altruism
 ---
 
-Warning: earnestposting ahead, including my thoughts on charity and "making the world a better place". 
+Last year I read "Doing Good Better" by William MacAskill. It's a book about why the global rich should donate money, and where that money can most effectively help people. 
 
-It's tax-time, so I've been tallying up our donations over the last financial year. The 2020-2021 financial year was 
+I was very convinced by the arguments in the book and decided to increase the amount of money we donate each year. 
 
-Last year I read "Doing Good Better" by William MacAskill 
+![](https://emchugh.io/images/h_donations.png)
 
-![](https://emchugh.io/images/doing_good.jpg)
+The 2020-2021 donations went to Against Malaria Foundation
 
-![](https://emchugh.io/images/donations20-21.png)
 
-![](https://emchugh.io/images/cumul_donations20-21.png)
+![](https://emchugh.io/images/donations_both.png)
+
+The 
+
+### Interesting links
+
+"How Rich Am I" calculator. People with an annual income of >$85,000 AUD are in the global richest 1%.  
+[https://howrichami.givingwhatwecan.org/how-rich-am-i](https://howrichami.givingwhatwecan.org/how-rich-am-i)
+
+Introduction to Effective Altruism. 
+[https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
