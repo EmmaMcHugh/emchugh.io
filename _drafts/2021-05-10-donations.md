@@ -12,8 +12,6 @@ Last year I read "Doing Good Better" by William MacAskill. It's a book about why
 
 I was very convinced by the arguments in the book and decided to increase the amount of money we donate each year. 
 
-![](https://emchugh.io/images/h_donations.png)
-
 The 2020-2021 donations went to Against Malaria Foundation
 
 
@@ -23,8 +21,8 @@ The
 
 ### Interesting links
 
-"How Rich Am I" calculator. People with an annual income of >$85,000 AUD are in the global richest 1%.  
+"How Rich Am I" calculator. People with an annual income of >$85,000 AUD are in the global richest 1%.    
 [https://howrichami.givingwhatwecan.org/how-rich-am-i](https://howrichami.givingwhatwecan.org/how-rich-am-i)
 
-Introduction to Effective Altruism. 
+Introduction to Effective Altruism.   
 [https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
