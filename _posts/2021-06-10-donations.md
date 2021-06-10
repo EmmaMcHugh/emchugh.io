@@ -25,7 +25,7 @@ The plots below show our monthly and cumulative donations for the 2020-2021 fina
 
 GiveWell estimates that $3000-$5000 spent on seasonal malaria chemoprevention can save a life[^1], so I think a lot of our donations will go towards this intervention in the future. We're aiming to at least double the amount we give in the next financial year, and will aim to increase our giving every year after that. I'll write an update in a year on whether we achieve this. Being publicly transparent is a good motivation for me, and I hope, for others thinking about giving more.
 
-### Interesting links
+## Interesting links
 
 **"How Rich Am I" calculator.** 		
 [https://howrichami.givingwhatwecan.org/how-rich-am-i](https://howrichami.givingwhatwecan.org/how-rich-am-i)
