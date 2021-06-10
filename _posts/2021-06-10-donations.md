@@ -27,16 +27,16 @@ GiveWell estimates that $3000 - $5000 spent on seasonal malaria chemoprevention 
 
 ## Interesting links
 
-**"How Rich Am I" calculator.** 		
+**"How Rich Am I" calculator.**         
 [https://howrichami.givingwhatwecan.org/how-rich-am-i](https://howrichami.givingwhatwecan.org/how-rich-am-i)
 
-**Introduction to Effective Altruism.**   
+**Introduction to Effective Altruism.**       
 [https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
 
-**GDLive.** A newsfeed of stories from people receiving cash transfers. I found reading these stories to be a huge reality check.		 		
+**GDLive.** A newsfeed of stories from people receiving cash transfers. I found reading these stories to be a huge reality check.      
 [https://live.givedirectly.org/](https://live.givedirectly.org/) 
 
-**Effective Altruism Australia.** For making tax deductible donations to GiveWell-recommended charities in Australia.		
+**Effective Altruism Australia.** For making tax deductible donations to GiveWell-recommended charities in Australia.        	 
 [https://effectivealtruism.org.au/](https://effectivealtruism.org.au/)
 
 [^1]: [https://www.givewell.org/charities/top-charities#SMC](https://www.givewell.org/charities/top-charities#SMC)
