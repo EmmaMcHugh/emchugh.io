@@ -8,7 +8,7 @@ tags:
   - effective altruism
 ---
 
-Last year I read "Doing Good Better" by William MacAskill. It's a book about why the global rich should donate money, and where that money can most effectively help people. I hadn't really thought about it before, but I'm part of the global 1% (i.e., those with an annual income of >$85,000 AUD). I've been this lucky almost entirely by chance: I was born in a rich country and had an upbringing that allowed me to get a good education and job. After reading the book, I thought a lot about my good fortune and what my obligations are to the global poor, and decided to increase the amount of money my partner and I donate to charity. 
+Last year I read "Doing Good Better" by William MacAskill[^1]. It's a book about why the global rich should donate money, and where that money can most effectively help people. I hadn't really thought about it before, but I'm part of the global 1% (i.e., those with an annual income of >$85,000 AUD). I've been this lucky almost entirely by chance: I was born in a rich country and had an upbringing that allowed me to get a good education and job. After reading the book, I thought a lot about my good fortune and what my obligations are to the global poor, and decided to increase the amount of money my partner and I donate to charity. 
 
 I've found the research by [GiveWell](https://www.givewell.org/) helpful for choosing charities, and our 2020-2021 donations went to these organisations:
 
@@ -23,7 +23,7 @@ The plots below show our monthly and cumulative donations for the 2020-2021 fina
 
 ![](https://emchugh.io/images/donations_both.png)
 
-GiveWell estimates that \$3000 - \$5000 spent on seasonal malaria chemoprevention can save a life[^1], so I think a lot of our donations will go towards this intervention in the future. We're aiming to at least double the amount we give in the next financial year, and will aim to increase our giving every year after that. I'll write an update in a year on whether we achieve this. Being publicly transparent is a good motivation for me, and I hope, for others thinking about giving more.
+GiveWell estimates that \$3000 - \$5000 spent on seasonal malaria chemoprevention can save a life[^2], so I think a lot of our donations will go towards this intervention in the future. We're aiming to at least double the amount we give in the next financial year, and will aim to increase our giving every year after that. I'll write an update in a year on whether we achieve this. Being publicly transparent is a good motivation for me, and I hope, for others thinking about giving more.
 
 ## Interesting links
 
@@ -39,4 +39,6 @@ GiveWell estimates that \$3000 - \$5000 spent on seasonal malaria chemopreventio
 **Effective Altruism Australia.** For making tax deductible donations to GiveWell-recommended charities in Australia.           	 
 [https://effectivealtruism.org.au/](https://effectivealtruism.org.au/)
 
-[^1]: [https://www.givewell.org/charities/top-charities#SMC](https://www.givewell.org/charities/top-charities#SMC)
+[^1]: [https://www.effectivealtruism.org/doing-good-better/](https://www.effectivealtruism.org/doing-good-better/)
+
+[^2]: [https://www.givewell.org/charities/top-charities#SMC](https://www.givewell.org/charities/top-charities#SMC)
