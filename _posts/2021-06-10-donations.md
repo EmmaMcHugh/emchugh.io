@@ -15,7 +15,7 @@ I've found the research by [GiveWell](https://www.givewell.org/) helpful for cho
 |		     Charity		     |	Amount 	|	Intervention	|		
 |			 ---		     |	---		|	---			|
 | [Against Malaria Foundation](https://www.againstmalaria.com/)  | $870		| Distributing insecticide-treated bednets |
-| [Malaria Consortium](https://www.malariaconsortium.org/pages/preventive_treatments/seasonal-malaria-chemoprevention.htm)		     | $ 2600       | Seasonal malaria chemoprevention in high-transmission areas |
+| [Malaria Consortium](https://www.malariaconsortium.org/pages/preventive_treatments/seasonal-malaria-chemoprevention.htm)		     | $2600       | Seasonal malaria chemoprevention in high-transmission areas |
 | [GiveDirectly](https://www.givedirectly.org/)			     |  $7400 	| Direct cash transfers to people living in extreme poverty |
 | Total | $10,070  |     |
 
@@ -23,7 +23,7 @@ The plots below show our monthly and cumulative donations for the 2020-2021 fina
 
 ![](https://emchugh.io/images/donations_both.png)
 
-GiveWell estimates that $3000-$5000 spent on seasonal malaria chemoprevention can save a life[^1], so I think a lot of our donations will go towards this intervention in the future. We're aiming to at least double the amount we give in the next financial year, and will aim to increase our giving every year after that. I'll write an update in a year on whether we achieve this. Being publicly transparent is a good motivation for me, and I hope, for others thinking about giving more.
+GiveWell estimates that $3000 - $5000 spent on seasonal malaria chemoprevention can save a life[^1], so I think a lot of our donations will go towards this intervention in the future. We're aiming to at least double the amount we give in the next financial year, and will aim to increase our giving every year after that. I'll write an update in a year on whether we achieve this. Being publicly transparent is a good motivation for me, and I hope, for others thinking about giving more.
 
 ## Interesting links
 
