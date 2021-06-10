@@ -23,7 +23,7 @@ The plots below show our monthly and cumulative donations for the 2020-2021 fina
 
 ![](https://emchugh.io/images/donations_both.png)
 
-GiveWell estimates that $3000 - $5000 spent on seasonal malaria chemoprevention can save a life[^1], so I think a lot of our donations will go towards this intervention in the future. We're aiming to at least double the amount we give in the next financial year, and will aim to increase our giving every year after that. I'll write an update in a year on whether we achieve this. Being publicly transparent is a good motivation for me, and I hope, for others thinking about giving more.
+GiveWell estimates that \$3000 - \$5000 spent on seasonal malaria chemoprevention can save a life[^1], so I think a lot of our donations will go towards this intervention in the future. We're aiming to at least double the amount we give in the next financial year, and will aim to increase our giving every year after that. I'll write an update in a year on whether we achieve this. Being publicly transparent is a good motivation for me, and I hope, for others thinking about giving more.
 
 ## Interesting links
 
@@ -36,7 +36,7 @@ GiveWell estimates that $3000 - $5000 spent on seasonal malaria chemoprevention 
 **GDLive.** A newsfeed of stories from people receiving cash transfers. I found reading these stories to be a huge reality check.      
 [https://live.givedirectly.org/](https://live.givedirectly.org/) 
 
-**Effective Altruism Australia.** For making tax deductible donations to GiveWell-recommended charities in Australia.        	 
+**Effective Altruism Australia.** For making tax deductible donations to GiveWell-recommended charities in Australia.           	 
 [https://effectivealtruism.org.au/](https://effectivealtruism.org.au/)
 
 [^1]: [https://www.givewell.org/charities/top-charities#SMC](https://www.givewell.org/charities/top-charities#SMC)
