@@ -112,7 +112,7 @@ gr_geno <- makeGRangesFromDataFrame(gl_geno, keep.extra.columns = TRUE,
                                     end.field = "POS")
 ```
 
-Finally, use the `ggbio` package `plotGrandLinear()` function to plot your SNPs GL value at their genomic position. You can customise the plot by adding `ggplot2` themes, colour scales etc. The `plotGrandLinear()` function takes a bunch of in-built arguments for adding cut-off lines, highlighting points, specifying axis limits etc. 
+Finally, use the [ggbio](https://www.bioconductor.org/packages/release/bioc/html/ggbio.html) package `plotGrandLinear()` function to plot your SNPs GL value at their genomic position. You can customise the plot by adding `ggplot2` themes, colour scales etc. The `plotGrandLinear()` function takes a bunch of in-built arguments for adding cut-off lines, highlighting points, specifying axis limits etc. 
 
 ```
 plotGrandLinear(gr_geno, aes(y = -GL),
