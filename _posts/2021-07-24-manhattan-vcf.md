@@ -12,7 +12,7 @@ A friend recently asked me to make her a Manhattan plot from a VCF (Variant Call
 
 To start, you will need a VCF file and genome FASTA. For this blog post I've used a sample VCF from 1000genomes for human chromosome 15[^1] and the GRCh38 human reference fasta[^2]. Unzip the VCF file. 
 
-Install the `tidy_vcf` Python program (https://github.com/silastittes/tidy_vcf) with `pip install tidy-vcf`. `cd` into the directory your VCF is in, then run 
+Install the `tidy_vcf` Python program [(https://github.com/silastittes/tidy_vcf)](https://github.com/silastittes/tidy_vcf) with `pip install tidy-vcf`. `cd` into the directory your VCF is in, then run 
 
 ```
 tidy_vcf -v ALL.chr15.phase1_release_v3.20101123.snps_indels_svs.genotypes.vcf -o vcf.tab -g geno.tab
@@ -91,7 +91,7 @@ gl_geno <- geno %>%
 # … with 19,990 more rows
 ```
 
-We want to be able to plot the GL values at their chromosome position. We will need to get the "widths" (chromosome lengths) and chromosome names to create a Seqinfo object, that will then be used to create a GRanges object that will allow plotting using the `ggbio` package. More info about GRanges can be found at the [GenomicRanges Bioconductor page](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html). Although this demo just has data from chromosome 15, normally you will want your Manhattan to include the whole genome. 
+We want to be able to plot the GL values at their chromosome position. We will need to get the "widths" (chromosome lengths) and chromosome names to create a Seqinfo object, that will then be used to create a GRanges object that will allow plotting using the `ggbio` package. More info about GRanges can be found at the [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html) Bioconductor page. Although this demo just has data from chromosome 15, normally you will want your Manhattan to include the whole genome. 
 
 Read in the genome FASTA file with the [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html) function `readDNAStringSet`. Ideally the FASTA will have the same chromosome names as your VCF (e.g. both have "chr15"). This was not the case for the FASTA I use in this demo, in which chromosome 15 was simply named 15. If you get errors in the next step check that your chromosomes are named the same, and manually set the names if needed.
 
@@ -124,5 +124,5 @@ plotGrandLinear(gr_geno, aes(y = -GL),
 
 ![](https://emchugh.io/images/manhattan.png)
 
-[^1]: ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/release/20110521/ALL.chr15.phase1_release_v3.20101123.snps_indels_svs.genotypes.vcf.gz
-[^2]: http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz
+[^1]: [ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/release/20110521/ALL.chr15.phase1_release_v3.20101123.snps_indels_svs.genotypes.vcf.gz](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/release/20110521/ALL.chr15.phase1_release_v3.20101123.snps_indels_svs.genotypes.vcf.gz)
+[^2]: [http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz](http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
