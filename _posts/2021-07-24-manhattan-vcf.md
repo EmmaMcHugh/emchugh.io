@@ -12,7 +12,7 @@ A friend recently asked me to make her a Manhattan plot from a VCF (Variant Call
 
 To start, you will need a VCF file and genome FASTA. For this blog post I've used a sample VCF from 1000genomes for human chromosome 15[^1] and the GRCh38 human reference fasta[^2]. Unzip the VCF file. 
 
-Install the `tidy_vcf` Python program [(https://github.com/silastittes/tidy_vcf)](https://github.com/silastittes/tidy_vcf) with `pip install tidy-vcf`. `cd` into the directory your VCF is in, then run 
+Install the `tidy_vcf` Python program ([https://github.com/silastittes/tidy_vcf)](https://github.com/silastittes/tidy_vcf)) with `pip install tidy-vcf`. `cd` into the directory your VCF is in, then run 
 
 ```
 tidy_vcf -v ALL.chr15.phase1_release_v3.20101123.snps_indels_svs.genotypes.vcf -o vcf.tab -g geno.tab
