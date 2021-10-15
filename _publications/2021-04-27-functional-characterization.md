@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 collection: publications
 permalink: /publication/2021-functional-characterization
 excerpt:
