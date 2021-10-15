@@ -1,5 +1,4 @@
 ---
-title: "Functional Characterization of the m6A-Dependent Translational Modulator PfYTH.2 in the Human Malaria Parasite"
 collection: publications
 permalink: /publication/2021-functional-characterization
 excerpt:
